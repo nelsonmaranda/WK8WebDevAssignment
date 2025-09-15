@@ -15,7 +15,7 @@ GreenTrack's website aims to:
 
 ## 🚀 Live Website
 
-🌐 **Live URL**: [Your Netlify URL will go here after deployment]
+🌐 **Live URL**: [https://greentrack1.netlify.app/](https://greentrack1.netlify.app/)
 
 ## 📁 Project Structure
 
