@@ -2,7 +2,6 @@
 
 A modern, responsive website for GreenTrack - a waste management and recycling company serving communities across Kenya. Built as part of PLP Web Development Week 8 Assignment.
 
-![GreenTrack Website Preview](https://greentrack1.netlify.app/)
 
 ## 🎯 Project Purpose
 
